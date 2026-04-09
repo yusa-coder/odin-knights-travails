@@ -1,0 +1,11 @@
+{
+  "name": "knight-moves",
+  "version": "1.0.0",
+  "description": "Finds the shortest path for a chess knight",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
